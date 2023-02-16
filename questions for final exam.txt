@@ -1,6 +1,0 @@
-Questions
-gradient descent
-motivation (LR)
-DNN stuff
-what exactly we need to know about #6 and #7
-do we need to know how to calc loss functions application when to use each one no math
